@@ -1,9 +1,9 @@
 body {
     background-color: #67c5db;
     font-size: 18px;
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-    line-height: 1em;
-    font-weight: bold;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height:1em;
+    font-weight:bold;
 }
 
 a, a:active, a:link, a:visited {
@@ -18,7 +18,7 @@ a:hover {
 
 .container {
     width: 100%;
-    height: 323px;
+    height:323px;
 }
 
 .login {
@@ -30,7 +30,7 @@ a:hover {
     margin: 10% auto;
 }
 
-.form-header {
+.form_header {
     width: 100%;
     height: 10%;
     background-color: #dedee0;
@@ -40,7 +40,7 @@ a:hover {
     border-radius: 10px 10px 0 0;
 }
 
-.form {
+form {
     background-color: #eff0f2;
     padding: 5% 5%;
     border-radius: 0 0 10px 10px;
@@ -59,22 +59,22 @@ input[type="password"] {
 
 input[type="text"]:focus,
 input[type="password"]:focus {
-    border: 0 0 5px #000;
+    border:0 0 5px #000;
     box-shadow: inset 0 0 10px #a1a1a1;
 }
 
 .btn {
-    outline: none;
-    color: #a1a1a1;
-    font-weight: bold;
-    font-size: 20;
-    width: 125px;
-    height: 50px;
-    margin: 45px 0 0 110px;
-    text-align: center;
-    border-radius: 25px;
-    background-color: #dedee0;
-    border: 2px solid #a1a1a1;
+        outline: none;
+        color: #a1a1a1;
+        font-weight: bold;
+        font-size: 20;
+        width: 125px;
+        height: 50px;
+        margin: 45px 0 0 110px;
+        text-align: center;
+        border-radius: 25px;
+        background-color: #dedee0;
+        border: 2px solid #a1a1a1;
 }
 
 .btn:hover {
@@ -88,7 +88,7 @@ input[type="password"]:focus {
 }
 
 .rem {
-    margin: 5% 0 0 10px;
+    width: 100%;
     font-size: 12px;
 }
 
@@ -100,4 +100,3 @@ input[type="password"]:focus {
 .forgot a {
     margin: 0 0 0 35%;
 }
-
