@@ -7,3 +7,5 @@ example works. The problem was the container for 'Please Login:' so
 I started to search the style sheet for the form, login, and .form_header.
 
 Turns out my fingers typed .form-header instead. Bug found.
+
+1/25 working on edits to the responsivness of the Login_project
