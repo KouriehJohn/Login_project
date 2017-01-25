@@ -9,3 +9,5 @@ I started to search the style sheet for the form, login, and .form_header.
 Turns out my fingers typed .form-header instead. Bug found.
 
 1/25 working on edits to the responsivness of the Login_project
+- created a login_style2.css
+- The login button keeps moving, code looks the same... not sure.
